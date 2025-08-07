@@ -1,0 +1,6 @@
+pydantic
+pyrogram[tgcrypto]
+ffmpeg-python
+python-dotenv
+aiofiles
+asyncio-queue
